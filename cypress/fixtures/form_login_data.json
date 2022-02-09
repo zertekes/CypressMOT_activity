@@ -1,0 +1,13 @@
+{
+    "form_test01" : {
+     "name": "Tester007",
+     "email": "test@test.com",
+     "phone": "07701230789",
+     "subject": "Test booking",
+     "message": "Hello, this is a test message. Bye."
+    },
+    "validCredentials" : {
+      "username": "admin",
+      "password": "password"
+     }
+  }

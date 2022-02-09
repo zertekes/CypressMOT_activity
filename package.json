@@ -1,0 +1,23 @@
+{
+  "name": "cypressmot_activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zertekes/CypressMOT_activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zertekes/CypressMOT_activity/issues"
+  },
+  "homepage": "https://github.com/zertekes/CypressMOT_activity#readme",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
